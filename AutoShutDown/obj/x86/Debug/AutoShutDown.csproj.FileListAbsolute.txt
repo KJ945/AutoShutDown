@@ -1,0 +1,8 @@
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\bin\Debug\AutoShutDown.exe
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\bin\Debug\AutoShutDown.pdb
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\obj\x86\Debug\AutoShutDown.Form1.resources
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\obj\x86\Debug\AutoShutDown.Properties.Resources.resources
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\obj\x86\Debug\AutoShutDown.csproj.GenerateResource.Cache
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\obj\x86\Debug\AutoShutDown.exe
+c:\users\哲\documents\visual studio 2010\Projects\AutoShutDown\AutoShutDown\obj\x86\Debug\AutoShutDown.pdb
+C:\Users\哲\Documents\Visual Studio 2010\Projects\AutoShutDown\AutoShutDown\obj\x86\Debug\AutoShutDown.csprojResolveAssemblyReference.cache
